@@ -1,0 +1,14 @@
+{
+    "trigger": true,
+    "modules": [
+        "add-to-group"
+    ],
+    "parentResource": "cognito704b3e59",
+    "functionName": "cognito704b3e59PostConfirmation",
+    "parentStack": "auth",
+    "triggerEnvs": "[]",
+    "triggerTemplate": "PostConfirmation.json.ejs",
+    "roleName": "cognito704b3e59PostConfirmation",
+    "skipEdit": true,
+    "resourceName": "cognito704b3e59PostConfirmation"
+}
